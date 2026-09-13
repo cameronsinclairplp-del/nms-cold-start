@@ -1,10 +1,10 @@
 # Cold Start — No Man's Sky 2026
 
-Your first fifty hours, done properly. A beginner roadmap and interactive checklist for **No Man's Sky**, written 10/09/2026 against **update 7.0 Cosmos** (released 09/09/2026).
+Your first fifty hours, done properly. A beginner roadmap and interactive checklist for **No Man's Sky**, written 10/09/2026 and updated 13/09/2026 against **update 7.0 Cosmos** (released 09/09/2026).
 
 **Live site:** https://cameronsinclairplp-del.github.io/nms-cold-start/
 
-Covers the settings to change before you press New Game, a **PC-keyboard → Xbox-pad translation table**, six ordered progression phases with 62 tickable checkpoints, the two passive income systems that end the grind, the upgrade rules the game never explains (supercharged slots, adjacency, the 3-module overload cap), the traps that cost people their playthrough, and what Cosmos changed about space.
+Covers the settings to change before you press New Game, a **PC-keyboard → Xbox-pad translation table**, seven ordered progression phases with 75 tickable checkpoints, the two passive income systems that end the grind, the upgrade rules the game never explains (supercharged slots, adjacency, the 3-module overload cap), the traps that cost people their playthrough, and what Cosmos changed about space.
 
 Progress is stored in your own browser's `localStorage` — nothing is sent anywhere.
 
@@ -14,7 +14,7 @@ Single self-contained `index.html`. Tailwind CSS v4 compiled and inlined, no bui
 
 Every figure is the best-corroborated number from the sources below at time of writing. Where sources disagree or a claim could not be verified, the page says so rather than guessing — the controller table in particular flags unconfirmed bindings, because Hello Games' own published pad layout is watermarked 4.0 and update 6.0 rearranged some input bindings.
 
-Hello Games patch this game constantly. Expect 7.01 and beyond within days of release.
+Hello Games patch this game constantly — 7.01 landed 10/09/2026 and more is on the experimental branch.
 
 ## Sources
 
